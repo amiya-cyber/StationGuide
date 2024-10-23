@@ -382,6 +382,24 @@ Forking allows you to create a personal copy of the repository, where you can ex
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+
+
+## Stargazers ❤️
+
+<div align='left'>
+
+[![Stargazers repo roster for @dhairyagothi/StationGuide](https://reporoster.com/stars/dhairyagothi/StationGuide)](https://github.com/dhairyagothi/StationGuide/stargazers)
+
+</div>
+
+## Forkers ❤️
+
+[![Forkers repo roster for @dhairyagothi/StationGuide](https://reporoster.com/forks/dhairyagothi/StationGuide)](https://github.com/dhairyagothi/StationGuide/network/members)
+
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 <!-- Added the Team section -->
 ## 👥 Team
 
